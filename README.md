@@ -2,11 +2,11 @@
 
 ## Demo Images
 
-![Setup Photo 1](HW04_01.jpg)  
+![Photo 1](HW04_01.jpg)  
 
-![Setup Photo 2](HW04_02.jpg)  
+![Photo 2](HW04_02.jpg)  
 
-![Setup Photo 3](HW04_03.jpg)  
+![Photo 3](HW04_03.jpg)  
 
 ## Demo Video
 
